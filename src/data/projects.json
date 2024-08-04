@@ -1,0 +1,26 @@
+[
+  {
+    "title": "PredictiX",
+    "imageSrc": "projects/predictiX.jpeg",
+    "description": "The Comprehensive Health Diagnostics app utilizes advanced AI technology for early detection and precise prediction of various diseases.",
+    "skills": ["React", "Node JS", "Express JS", "MongoDB", "Python", "Tensorflow"],
+    "demo": "#",
+    "source": "https://github.com/SoumikSen10/PredictiX"
+  },
+  {
+    "title": "BlogSphere",
+    "imageSrc": "projects/blogsphere.jpeg",
+    "description": "A dynamic and responsive blog application.This app allows users to create, read other's blogs, edit, and delete blog posts making it easy for users to engage with content.",
+    "skills": ["React", "Node JS", "Express JS", "MongoDB"],
+    "demo": "#",
+    "source": "https://github.com/SoumikSen10/BlogSphere"
+  },
+  {
+    "title": "CryptoSphere",
+    "imageSrc": "projects/cryptosphere.jpeg",
+    "description": "A robust and real-time cryptocurrency tracker application which provides users with up-to-date information on various cryptocurrencies, including current prices, market trends, and historical data.",
+    "skills": ["React", "Tailwind CSS"],
+    "demo": "https://crypto-sphere-app.vercel.app/",
+    "source": "https://github.com/SoumikSen10/CryptoSphere"
+  }
+]

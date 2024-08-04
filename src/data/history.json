@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Smart India Hackathon 2023 Finalist",
+    "organisation": " - Ministry of Social Justice and Empowerment",  
+    "startDate": "19 Dec, 2023",
+    "endDate": "21 Dec, 2023", 
+    "experiences": ["Led my team to the Grand Finale of Smart India Hackathon where we developed a full stack application in the competition for the disabled people of India named Udyog Saarthi App.", "Used React in frontend , appwrite as backend service , libraries like beautiful soup for web scraping and OCR algo for data scraping."]
+    
+  },
+  {
+    "role": "Digital Nurture 3.0 Participant",
+    "organisation": " - Cognizant",
+    "startDate": "July, 2024",
+    "endDate": "Sep, 2024",
+    "experiences": ["Developed expertise in Salesforce by working with Apex, Visualforce, Lightning Web Components (LWC), and Salesforce automation tools like Process Builder and Flow.", "Gained experience in integrating Salesforce using REST and SOAP APIs, enhancing CRM functionalities and customization."]
+    
+  }
+  
+]
